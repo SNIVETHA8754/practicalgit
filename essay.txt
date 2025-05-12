@@ -1,0 +1,4 @@
+Create a essay.txt file
+git status
+cd practicalgit   --- we have to move to practical git folder
+git status
