@@ -12,3 +12,6 @@ github web la store aairum refresh and chech it
  git commit -m " B made the change"
  git status
  git push origin main
+
+if we edit in github website we need this updated file on our vs code so 
+git pull origin main
