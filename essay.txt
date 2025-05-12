@@ -6,4 +6,9 @@ git add .
 move to stageing area
 git commit -m " a made a change"
 github web la store aairum refresh and chech it
-
+ againg
+ check status -- git status
+ git add .
+ git commit -m " B made the change"
+ git status
+ git push origin main
